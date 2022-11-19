@@ -1,0 +1,10 @@
+
+MNIST/datasets/mnist_train.csv
+MNIST/datasets/mnist_test.csv
+Titanic/datasets/test.csv
+Titanic/gender_submission_imp.csv
+Titanic/gender_submission1.csv
+Titanic/gender_submission.csv
+Titanic/datasets/train.csv
+Titanic/datasets/gender_submission.csv
+gender_submission.csv
